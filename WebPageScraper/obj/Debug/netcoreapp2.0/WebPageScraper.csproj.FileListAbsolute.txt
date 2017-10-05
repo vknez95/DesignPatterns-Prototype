@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/bin/Debug/netcoreapp2.0/WebPageScraper.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/bin/Debug/netcoreapp2.0/WebPageScraper.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/bin/Debug/netcoreapp2.0/WebPageScraper.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/bin/Debug/netcoreapp2.0/WebPageScraper.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/bin/Debug/netcoreapp2.0/WebPageScraper.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/obj/Debug/netcoreapp2.0/WebPageScraper.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/obj/Debug/netcoreapp2.0/WebPageScraper.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/obj/Debug/netcoreapp2.0/WebPageScraper.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/obj/Debug/netcoreapp2.0/WebPageScraper.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Prototype/WebPageScraper/obj/Debug/netcoreapp2.0/WebPageScraper.pdb
